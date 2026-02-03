@@ -1,3 +1,3 @@
 # Structured Adversarial Camouflage via Voronoi Diagrams
 
-Code will be uploaded soon
+Due to a patent registration, code will be provided after the official paper release.
